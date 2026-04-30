@@ -1,1 +1,1 @@
-# ejercico--3-de-JavaScript
+# ejercico-3-de-JavaScript
