@@ -1,25 +1,26 @@
-﻿# Ejercicio 3 — doble y triple
+# Ejercicio 3 — doble y triple
 
-Dado un número entero, muestra su doble y su triple.
+Das un entero y te devuelve su doble y su triple.
 
 ## Qué hace
 
-- Input de número entero
-- Botón que calcula doble y triple
+- Un input
+- Botón que calcula
+- Dos líneas de resultado
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo.
+Abre `index.html`.
 
 Demo: https://moussijoelle.github.io/ejercico--3-de-JavaScript/
 
 ## Cómo lo construí
 
-- HTML + JavaScript (`app.js`)
+`app.js` con `parseInt` y multiplicaciones simples.
 
 ## Cómo verificarlo
 
-Sin tests. Pruebo con varios enteros.
+Pruebo con 4 (8 y 12) y con un valor vacío.
 
 ---
 
